@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Daebok',
-  domain: 'nextjs-notion-starter-kit-six-red.vercel.app',
+  domain: 'nextjs-notion-starter-53086mbm5-ydaewons-projects.vercel.app',
   author: 'Daewon Yang',
 
   // open graph metadata (optional)
